@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/38771926/227852091-e3d27ca0-478d-4e06-ab03-fa71a901b0bc.png)
+![image](https://user-images.githubusercontent.com/38771926/227852678-8fcb57d9-520d-4c08-a35f-ca1d10eed204.png)
+
 
 <!--
 **Daniel-Loaiza/daniel-loaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
