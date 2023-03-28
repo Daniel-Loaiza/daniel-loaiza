@@ -1,8 +1,9 @@
-# Meet Daniel!
-___
+### Meet Daniel!
+
 ![computer-science-web-linear-banner-programming](https://user-images.githubusercontent.com/38771926/228125759-2c0ee598-f1e7-499d-928f-b9709c352563.jpg)
 Software Engineer, graduated at the [Universidad de Antioquia](https://www.udea.edu.co/), Colombia
 
+### My skills include...
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,django,flask,fastapi,r,java,spring,php,laravel,html,css,js,mongodb,nodejs,express,postgres,mysql,sqlite,git,github,vscode,postman&perline=12" />
 </p>
