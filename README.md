@@ -1,4 +1,4 @@
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/38771926/228119937-f3fab86f-d021-45c3-a4c7-0c7c290f2e96.jpg)" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/38771926/228119937-f3fab86f-d021-45c3-a4c7-0c7c290f2e96.jpg" width="100" height="100">
 Software Engineer, graduated at the [Universidad de Antioquia](https://www.udea.edu.co/), Colombia
 
 <!--
