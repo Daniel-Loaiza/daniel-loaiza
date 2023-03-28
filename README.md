@@ -8,6 +8,9 @@ Software Engineer, graduated at the [Universidad de Antioquia](https://www.udea.
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,django,flask,fastapi,r,java,spring,php,laravel,html,css,js,mongodb,nodejs,express,postgres,mysql,sqlite,git,github,vscode,postman&perline=12" />
 </p>
 
+<a href="[https://www.linkedin.com/in/thomasgeorgethomas](https://www.linkedin.com/in/danilore/)" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 <!--
 
 **Daniel-Loaiza/daniel-loaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
