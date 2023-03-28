@@ -10,6 +10,7 @@ Software Engineer, graduated at the [Universidad de Antioquia](https://www.udea.
 
 ### Connect with me at
 <a href="https://www.linkedin.com/in/danilore/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="contratista.alcaldia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!--
 
 **Daniel-Loaiza/daniel-loaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
