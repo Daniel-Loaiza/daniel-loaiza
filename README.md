@@ -1,6 +1,9 @@
+# Meet Daniel!
+___
 ![computer-science-web-linear-banner-programming](https://user-images.githubusercontent.com/38771926/228125759-2c0ee598-f1e7-499d-928f-b9709c352563.jpg)
 Software Engineer, graduated at the [Universidad de Antioquia](https://www.udea.edu.co/), Colombia
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-loaiza&layout=compact)](https://github.com/daniel-loaiza/github-readme-stats)
 <!--
 
 **Daniel-Loaiza/daniel-loaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
