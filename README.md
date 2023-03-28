@@ -1,8 +1,9 @@
-![coding-web-programming-computer](https://user-images.githubusercontent.com/38771926/228119937-f3fab86f-d021-45c3-a4c7-0c7c290f2e96.jpg)
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/38771926/228119937-f3fab86f-d021-45c3-a4c7-0c7c290f2e96.jpg)" width="100" height="100">
 Software Engineer, graduated at the [Universidad de Antioquia](https://www.udea.edu.co/), Colombia
 
 <!--
 **Daniel-Loaiza/daniel-loaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![coding-web-programming-computer](https://user-images.githubusercontent.com/38771926/228119937-f3fab86f-d021-45c3-a4c7-0c7c290f2e96.jpg)
 ![image](https://user-images.githubusercontent.com/38771926/227850077-21be0030-bfec-442e-a950-3852b9ca92b1.png)
 ![image](https://user-images.githubusercontent.com/38771926/227854623-7b0dea02-6fe0-4ec2-92a5-4f678fa2aaef.png)
 ![image](https://user-images.githubusercontent.com/38771926/227852678-8fcb57d9-520d-4c08-a35f-ca1d10eed204.png)
