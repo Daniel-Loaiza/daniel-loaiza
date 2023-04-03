@@ -2,31 +2,33 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=36BCF7FF&width=435&lines=Software+Engineer;Data+Scientist;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 ![computer-science-web-linear-banner-programming](https://user-images.githubusercontent.com/38771926/228125759-2c0ee598-f1e7-499d-928f-b9709c352563.jpg)
+
 <div class=text-justify>
-Software Engineer with emphasis on Web Engineering. Lover of Clean Code and passionate about Agile methodologies, with a good grasp of UML, good proficiency in code versioning tools like GitHub, and proper implementation of the ER model using SQL languages such as PostgreSQL and MySQL. Over the last three years, my work experience has been mainly focused on the Python language and the Django framework, although I have been training myself to work with stacks such as MEAN, MERN, and XAMPP. Software Engineer, graduated at the [Universidad de Antioquia](https://www.udea.edu.co/), Colombia</div>
+<p style='text-align: justify;'><strong>Software Engineer</strong> with emphasis on Web Development. Lover of <strong>Clean Code</strong> and passionate about <strong>Agile methodologies</strong>, with a good grasp of UML, good proficiency in code versioning tools like GitHub, and proper implementation of the ER model using SQL languages such as PostgreSQL and MySQL. Over the last five years, my work experience as a Software developer has been mainly focused on the <strong>Python</strong> language and the <strong>Django</strong> framework, although I have been training myself to work with Frameworks like Java Spring Boot, Php Laravel and stacks like MEAN, MERN, and XAMPP.</p>
+</div>
 
 ### Connaissez moi !
 <details>
   <summary>Cliquez ici pour plus d'information !</summary>
-
-  Ingénieur en système d'information avec une spécialisation en ingénierie Web. Amoureux du Clean Code et passionné des méthodologies Agile, avec une bonne maîtrise de l'UML, une bonne compétence dans les outils de versionnage de code comme GitHub, et une mise en œuvre appropriée du modèle ER en utilisant des langages SQL tels que PostgreSQL et MySQL. Au cours des trois dernières années, mon expérience professionnelle s'est principalement concentrée sur le langage Python et le framework Django, bien que je me sois entraîné à travailler avec des stacks tels que Spring boot, MEAN, MERN et XAMPP.
+<br>
+  Ingénieur en système d'information avec une spécialisation en ingénierie Web. Amoureux du Clean Code et passionné des méthodologies Agile, avec une bonne maîtrise de l'UML, une bonne compétence dans les outils de versionnage de code comme GitHub, et une mise en œuvre appropriée du modèle ER en utilisant des langages SQL tels que PostgreSQL et MySQL. Au cours des cinq dernières années, mon expérience professionnelle s'est principalement concentrée sur le langage Python et le framework Django, bien que je me sois entraîné à travailler avec des stacks tels que Spring boot, MEAN, MERN et XAMPP.
 </details>
 
 ### My skills include...
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,django,flask,fastapi,r,java,spring,php,laravel,html,css,js,mongodb,nodejs,express,postgres,mysql,sqlite,git,github,vscode,postman&perline=12&theme=light" />
-    <img src="https://skillicons.dev/icons?i=py&theme=light" />    
+    <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" title="Python"/>    
 </p>
 
 <div align="center">
   <a href="https://www.python.org/">
-	<img height="40" src="https://user-images.githubusercontent.com/38771926/229397658-560702d8-64c7-4a56-ab56-bddbd50a11b6.svg" alt="Python" title="Python" />
+	<img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" title="Python"/> 
   </a> 
   <a href="https://pytorch.org/">
-	<img height="40" src="https://user-images.githubusercontent.com/38771926/229399199-0839397b-d561-4061-9642-b3fe9b42ed66.svg" alt="Pytorch" title="Pytorch" />
+	<img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="Pytorch" title="Pytorch" />
   </a> 
   <a href="https://www.tensorflow.org/">
-	<img height="40" src="https://user-images.githubusercontent.com/38771926/229403474-040b98d2-1b5a-498a-9ee5-0a369976d224.svg" alt="Tensorflow" title="Tensorflow" />
+	<img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="Tensorflow" title="Tensorflow" />
   </a> 	
   <a href="">
 	<img height="40" src="" alt="" title="" />
