@@ -16,8 +16,7 @@
 
 ### My skills include...
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,django,flask,fastapi,r,java,spring,php,laravel,html,css,js,mongodb,nodejs,express,postgres,mysql,sqlite,git,github,vscode,postman&perline=12&theme=light" />
-    <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" title="Python"/>    
+    <img src="https://skillicons.dev/icons?i=css,js,mongodb,nodejs,express,postgres,mysql,sqlite,git,github,vscode,postman&perline=12&theme=light" />
 </p>
 
 <div align="center">
@@ -30,40 +29,40 @@
   <a href="https://www.tensorflow.org/">
 	<img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="Tensorflow" title="Tensorflow" />
   </a> 	
-  <a href="">
-	<img height="40" src="" alt="" title="" />
+  <a href="https://www.djangoproject.com/">
+	<img src="https://skillicons.dev/icons?i=django&theme=light" alt="Django" title="Django" />
+  </a>
+
+  <a href="https://flask.palletsprojects.com/">
+	<img src="https://skillicons.dev/icons?i=flask&theme=light" alt="Flask" title="Flask" />
+  </a>
+
+  <a href="https://fastapi.tiangolo.com/">
+	<img src="https://skillicons.dev/icons?i=fastapi&theme=light" alt="Fastapi" title="Fastapi" />
+  </a>
+
+  <a href="https://www.r-project.org/">
+	<img src="https://skillicons.dev/icons?i=r&theme=light" alt="R" title="R" />
   </a>
 
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" title="Java" />
   </a>
 
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" title="Spring" />
   </a>
 
   <a href="">
-	<img height="40" src="" alt="" title="" />
-  </a>
-
-  <a href="">
-	<img height="40" src="" alt="" title="" />
-  </a>
-
-  <a href="">
-	<img height="40" src="" alt="" title="" />
-  </a>
-
-  <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=php&theme=light" alt="PHP" title="PHP" />
   </a>	
 
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel" title="Laravel" />
   </a>
 
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML5" title="HTML5" />
   </a>	
 </div>
 <div align="center">
