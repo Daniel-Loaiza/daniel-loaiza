@@ -2,7 +2,7 @@
 
 ![computer-science-web-linear-banner-programming](https://user-images.githubusercontent.com/38771926/228125759-2c0ee598-f1e7-499d-928f-b9709c352563.jpg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Homemade+Apple&pause=2000&color=16264C&width=435&lines=Software+Engineer;Data+Scientist;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Homemade+Apple&pause=2000&color=494949&width=435&lines=Software+Engineer;Data+Scientist;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 Software Engineer, graduated at the [Universidad de Antioquia](https://www.udea.edu.co/), Colombia
 
@@ -17,7 +17,11 @@ Software Engineer, graduated at the [Universidad de Antioquia](https://www.udea.
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,django,flask,fastapi,r,java,spring,php,laravel,html,css,js,mongodb,nodejs,express,postgres,mysql,sqlite,git,github,vscode,postman&perline=12" />
 </p>
-
+<div>
+  <a href="https://www.qries.com/">
+	<img height="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" />
+  </a> 
+</div>
 ### Connect with me at
 - 📫 How to reach me: <br>
 <a href="https://www.linkedin.com/in/danilore/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
