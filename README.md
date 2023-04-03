@@ -15,11 +15,7 @@
 </details>
 
 ### My skills include...
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=css,js,mongodb,nodejs,express,postgres,mysql,sqlite,git,github,vscode,postman&perline=12&theme=light" />
-</p>
-
-<div align="center">
+<div align="left">
   <a href="https://www.python.org/">
 	<img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" title="Python"/> 
   </a> 
@@ -32,93 +28,78 @@
   <a href="https://www.djangoproject.com/">
 	<img src="https://skillicons.dev/icons?i=django&theme=light" alt="Django" title="Django" />
   </a>
-
   <a href="https://flask.palletsprojects.com/">
 	<img src="https://skillicons.dev/icons?i=flask&theme=light" alt="Flask" title="Flask" />
   </a>
-
   <a href="https://fastapi.tiangolo.com/">
 	<img src="https://skillicons.dev/icons?i=fastapi&theme=light" alt="Fastapi" title="Fastapi" />
   </a>
-
   <a href="https://www.r-project.org/">
 	<img src="https://skillicons.dev/icons?i=r&theme=light" alt="R" title="R" />
   </a>
-
   <a href="">
 	<img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" title="Java" />
   </a>
-
   <a href="">
 	<img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring" title="Spring" />
   </a>
-
   <a href="">
 	<img src="https://skillicons.dev/icons?i=php&theme=light" alt="PHP" title="PHP" />
   </a>	
-
   <a href="">
 	<img src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel" title="Laravel" />
   </a>
-
   <a href="">
 	<img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML5" title="HTML5" />
   </a>	
 </div>
-<div align="center">
+<div align="left">
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS3" title="CSS3" />
   </a> 
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=js&theme=light" alt="JS" title="JS" />
   </a> 
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" title="MongoDB" />
   </a> 	
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Node.js" title="Node.js" />
   </a>
-
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=express&theme=light" alt="Express" title="Express" />
   </a>
-
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="PostgreSQL" title="PostgreSQL" />
   </a>
-
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" title="MySQL" />
   </a>
-
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="SQLite" title="SQLite" />
   </a>
-
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" title="Git" />
   </a>
-
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" title="GitHub" />
   </a>	
-
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VSCode" title="VSCode" />
   </a>
-
   <a href="">
-	<img height="40" src="" alt="" title="" />
+	<img src="https://skillicons.dev/icons?i=postman&theme=light" alt="Postman" title="Postman" />
   </a>	
 </div>
-- 📫 How to reach me: <br>
+
+### How to reach me...
+
 <a href="https://www.linkedin.com/in/danilore/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="contratista.alcaldia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<!--
 
+<!--
 **Daniel-Loaiza/daniel-loaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
