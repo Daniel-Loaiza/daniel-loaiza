@@ -1,6 +1,9 @@
 ### Meet Daniel!
 
 ![computer-science-web-linear-banner-programming](https://user-images.githubusercontent.com/38771926/228125759-2c0ee598-f1e7-499d-928f-b9709c352563.jpg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Homemade+Apple&pause=2000&color=16264C&width=435&lines=Software+Engineer;Data+Scientist;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+
 Software Engineer, graduated at the [Universidad de Antioquia](https://www.udea.edu.co/), Colombia
 
 ### Connaissez moi !
