@@ -11,7 +11,9 @@
 <details>
   <summary>Cliquez ici pour plus d'information !</summary>
 <br>
-  Ingénieur en système d'information avec une spécialisation en ingénierie Web. Amoureux du Clean Code et passionné des méthodologies Agile, avec une bonne maîtrise de l'UML, une bonne compétence dans les outils de versionnage de code comme GitHub, et une mise en œuvre appropriée du modèle ER en utilisant des langages SQL tels que PostgreSQL et MySQL. Au cours des cinq dernières années, mon expérience professionnelle s'est principalement concentrée sur le langage Python et le framework Django, bien que je me sois entraîné à travailler avec des stacks tels que Spring boot, MEAN, MERN et XAMPP.
+<div class=text-justify>
+<p style='text-align: justify;'>Ingénieur en système d'information avec une spécialisation en ingénierie Web. Amoureux du Clean Code et passionné des méthodologies Agile, avec une bonne maîtrise de l'UML, une bonne compétence dans les outils de versionnage de code comme GitHub, et une mise en œuvre appropriée du modèle ER en utilisant des langages SQL tels que PostgreSQL et MySQL. Au cours des cinq dernières années, mon expérience professionnelle s'est principalement concentrée sur le langage Python et le framework Django, bien que je me sois entraîné à travailler avec des stacks tels que Spring boot, MEAN, MERN et XAMPP.</p>
+</div>	
 </details>
 
 ### My skills include...
