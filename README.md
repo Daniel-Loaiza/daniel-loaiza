@@ -1,21 +1,21 @@
 ### Meet Daniel!
 
-![computer-science-web-linear-banner-programming](https://user-images.githubusercontent.com/38771926/228125759-2c0ee598-f1e7-499d-928f-b9709c352563.jpg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=36BCF7FF&width=435&lines=Software+Engineer;Data+Scientist;Full+Stack+Web+Developer)](https://git.io/typing-svg)
-
-Software Engineer, graduated at the [Universidad de Antioquia](https://www.udea.edu.co/), Colombia
+![computer-science-web-linear-banner-programming](https://user-images.githubusercontent.com/38771926/228125759-2c0ee598-f1e7-499d-928f-b9709c352563.jpg)
+<div class=text-justify>
+Software Engineer with emphasis on Web Engineering. Lover of Clean Code and passionate about Agile methodologies, with a good grasp of UML, good proficiency in code versioning tools like GitHub, and proper implementation of the ER model using SQL languages such as PostgreSQL and MySQL. Over the last three years, my work experience has been mainly focused on the Python language and the Django framework, although I have been training myself to work with stacks such as MEAN, MERN, and XAMPP. Software Engineer, graduated at the [Universidad de Antioquia](https://www.udea.edu.co/), Colombia</div>
 
 ### Connaissez moi !
 <details>
   <summary>Cliquez ici pour plus d'information !</summary>
 
-  Plus d'info ici!
+  Ingénieur en système d'information avec une spécialisation en ingénierie Web. Amoureux du Clean Code et passionné des méthodologies Agile, avec une bonne maîtrise de l'UML, une bonne compétence dans les outils de versionnage de code comme GitHub, et une mise en œuvre appropriée du modèle ER en utilisant des langages SQL tels que PostgreSQL et MySQL. Au cours des trois dernières années, mon expérience professionnelle s'est principalement concentrée sur le langage Python et le framework Django, bien que je me sois entraîné à travailler avec des stacks tels que Spring boot, MEAN, MERN et XAMPP.
 </details>
 
 ### My skills include...
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,django,flask,fastapi,r,java,spring,php,laravel,html,css,js,mongodb,nodejs,express,postgres,mysql,sqlite,git,github,vscode,postman&perline=12&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py&theme=light" />    
 </p>
 
 <div align="center">
