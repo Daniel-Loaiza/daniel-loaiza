@@ -1,6 +1,6 @@
 ### Meet Daniel!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=2000&color=36BCF7FF&width=435&lines=Software+Engineer;Data+Scientist;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=36BCF7FF&width=435&lines=Software+Engineer;Data+Scientist;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 ![computer-science-web-linear-banner-programming](https://user-images.githubusercontent.com/38771926/228125759-2c0ee598-f1e7-499d-928f-b9709c352563.jpg)
 
 <div class=text-justify>
